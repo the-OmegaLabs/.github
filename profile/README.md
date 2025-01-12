@@ -1,31 +1,28 @@
+<p align="center">
+  <img height="150px"
+    src="https://avatars.githubusercontent.com/the-OmegaLabs"
+  />     
+  <h1 align="center">OmegaLabs</h1>
+</p>
+
+<p align="center">
+    <a href="https://github.com/the-OmegaLabs">
+        <img height="24px" src="https://i.ibb.co/dMMmCrW/Git-Hub-Mark.png" />
+    <a href="https://yaka.im/"> 
+        <img height="24px" src="https://www.freepnglogos.com/uploads/logo-website-png/logo-website-website-icon-with-png-and-vector-format-for-unlimited-22.png" />
+    </a>
+</p>
+
+<h3 align="center">Hi there 👋</h3>
+<p align="center">We are a non-profit, community-driven organization dedicated to creating an open-source Linux ecosystem focused on enhancing user experience.</p>
 
 
-# Hey there! 👋 Welcome to **OmegaLabs**!
+## :star: Main projects
+- [Plusto Package Manager](https://github.com/the-OmegaLabs/ppm) -  A lightweight, extensible, easy-to-use, and mixable software package manager.
+- [OmegaEdit](https://github.com/the-OmegaLabs/OmegaEdit) - A lightweight next-generation file editor that aim fast editing with no mouse.
+- [~OmegaOS~](https://github.com/the-OmegaLabs) - WIP
 
-We’re a **non-profit community-driven organization** based in **Zhengzhou, Henan, China** 🌍. Our mission? To create a **revolutionary Linux ecosystem** that’ll make developers' lives easier and the open-source world even better. 🚀
 
-## Our Projects 🔧
 
-- **Plusto Package Manager (ppm)**: A fast and efficient package manager to handle your Linux software like a pro. Check out [Official Website](https://ppm.mom) for more info, or dive into our [Document](https://wiki.ppm.mom) for all the details.
 
-- **OmegaEdit (OE)**: A brand-new text editor coming soon! It’s going to change how you write code—get ready for a whole new experience! ✍️
-
-- **Omega OS**: A fresh, cutting-edge Linux distro designed to give you the best of performance, stability, and ease of use. 💻
-
-- **Plusto Shell Scripting System (psh)**: A lightweight, out-of-the-box scripting language that makes writing scripts quicker and simpler. ⚡
-
-- **Yet Another Shell (yash)**: Our take on a lighter, faster alternative to zsh, perfect for efficient terminal work. 🖥️
-
-## Our Mission 🌟
-
-At **OmegaLabs**, we're all about **innovation** and **open-source**. We want to make powerful tools and systems that improve the Linux experience for everyone. As a grassroots project, we believe in giving back to the community, and we’re all about empowering developers and tech enthusiasts around the world.
-
-## Get Involved 🚀
-
-Want to learn more? Check out our website: [yaka.im](https://yaka.im).
-
-Together, we can help make the world more open-source and more awesome! 💡
-
----
-
-**OmegaLabs - Open Source, Changing the World** ✨
+<img src="https://profile-counter.glitch.me/the-OmegaLabs/count.svg"/>
