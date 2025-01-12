@@ -2,7 +2,7 @@
   <img height="150px"
     src="https://avatars.githubusercontent.com/the-OmegaLabs"
   />     
-  <h1 align="center">OmegaLabs</h1>
+  <h1 align="center">Omega Labs</h1>
 </p>
 
 <p align="center">
