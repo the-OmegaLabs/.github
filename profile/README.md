@@ -14,7 +14,7 @@
 </p>
 
 <h3 align="center">Hi there 👋</h3>
-<p align="center">We are a non-profit, community-driven organization dedicated to creating an open-source Linux ecosystem focused on enhancing user experience.</p>
+<p align="center">We are students from China aiming to establish a non-profit, community-driven organization dedicated to creating an open-source Linux ecosystem that enhances the user experience.</p>
 
 
 ## :star: Main projects
