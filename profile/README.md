@@ -30,4 +30,4 @@
 
 <img src="https://profile-counter.glitch.me/the-OmegaLabs/count.svg"/>
 
-[~Let counter +1~](https://github.com/the-OmegaLabs) - WIP
+[~Let counter +1~](https://github.com/the-OmegaLabs)
