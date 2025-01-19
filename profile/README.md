@@ -21,7 +21,7 @@
 - [Plusto Package Manager](https://github.com/the-OmegaLabs/ppm) -  A lightweight, extensible, easy-to-use, and mixable software package manager.
 - [OmegaEdit](https://github.com/the-OmegaLabs/OmegaEdit) - A lightweight next-generation file editor that aim fast editing with no mouse.
 - [dashClip](https://github.com/the-OmegaLabs/dashClip) - Blazing fast, ultra-lightweight clipboard manager.
-- [linotify](https://github.com/the-OmegaLabs/Linotify) - A simple notice system for Linux.
+- [Linotify](https://github.com/the-OmegaLabs/Linotify) - A simple notice system for Linux.
 - [Hush](https://github.com/the-OmegaLabs/Hush) - A sleek, ultra-lightweight, and extensible shell for *nix system.
 - [~OmegaOS~](https://github.com/the-OmegaLabs) - WIP
 
