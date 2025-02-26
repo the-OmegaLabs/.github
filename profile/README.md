@@ -14,19 +14,7 @@
 </p>
 
 <h3 align="center">Hi there 👋</h3>
-<p align="center">We are students from China aiming to establish a non-profit, community-driven organization dedicated to creating an open-source Linux ecosystem that enhances the user experience.</p>
-
-
-## :star: Projects
-- [Plusto Package Manager](https://github.com/the-OmegaLabs/ppm) -  A lightweight, extensible, easy-to-use, and mixable software package manager.
-- [OmegaEdit](https://github.com/the-OmegaLabs/OmegaEdit) - A lightweight next-generation file editor that aim fast editing with no mouse.
-- [dashClip](https://github.com/the-OmegaLabs/dashClip) - Blazing fast, ultra-lightweight clipboard manager.
-- [Linotify](https://github.com/the-OmegaLabs/Linotify) - A simple cli-interface notification system.
-- [Hush](https://github.com/the-OmegaLabs/Hush) - A sleek, ultra-lightweight, and extensible shell for *nix system.
-- [~OmegaOS~](https://github.com/the-OmegaLabs) - WIP
-
-
-
+<p align="center">We are students from earth aiming to establish a non-profit, community-driven organization dedicated to creating an open-source Linux ecosystem that enhances the user experience.</p>
 
 <img src="https://profile-counter.glitch.me/the-OmegaLabs/count.svg"/>
 
